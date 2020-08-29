@@ -1,2 +1,2 @@
-# mshukla220.github.io
+# mshukla20.github.io
 Mohit Shukla Portfolio
