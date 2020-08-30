@@ -1,5 +1,5 @@
 # Site settings
-title: Hi, Mohit Shukla.
+title: Mohit Shukla Portfolio.
 description: Mohit Shukla' professional portfolio site
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -8,8 +8,9 @@ description: Mohit Shukla' professional portfolio site
 username: Mohit Shukla
 user_title: 
 user_job_title: Data Scientist
-email: mohit.shukla [at] rutgers.edu
+email: mohit.shukla@rutgers.edu
 twitter_username: centerback_20
 github_username:  mshukla20
+linkedin_username: mohit2297
 
 exclude: ['package.json', 'src' , 'node_modules']
