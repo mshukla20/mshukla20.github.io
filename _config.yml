@@ -1,13 +1,13 @@
 # Site settings
-title: Mohit Shukla Portfolio.
-description: Mohit Shukla' professional portfolio site
+title: Mohit Shukla Portfolio
+description: Mohit Shukla's professional portfolio site
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Mohit Shukla
 user_title: 
-user_job_title: A Rutgers Business School student | Exploring career opportunities in Data Science, Data Analytics, Business Analysis
+user_job_title: Exploring career opportunities in Data Science, Data Analytics, Business Analysis
 email: mohit.shukla@rutgers.edu
 twitter_username: centerback_20
 github_username:  mshukla20
